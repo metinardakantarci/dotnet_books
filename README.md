@@ -1,5 +1,5 @@
 # .NET MVC BOOKS PROJECT
-.A simple books site with using .NET MVC
+A simple books site with using .NET MVC
 
 ![Books1](https://github.com/metinardakantarci/dotnet_books/assets/55920692/9db40640-1e6b-4ddc-aa9d-2e521d848d43)
 
